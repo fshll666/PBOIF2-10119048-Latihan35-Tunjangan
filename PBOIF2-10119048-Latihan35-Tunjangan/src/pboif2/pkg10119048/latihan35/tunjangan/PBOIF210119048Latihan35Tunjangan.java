@@ -9,6 +9,10 @@ import java.util.Scanner;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Berisi Program Tunjangan.
  */
 public class PBOIF210119048Latihan35Tunjangan {
 
@@ -28,7 +32,8 @@ public class PBOIF210119048Latihan35Tunjangan {
         hitungGaji.setStatus(scanner.next());
         
         hitungGaji.tampilHasilPerhitungan();
-        
+        System.out.println("==========================================");
+        System.out.println("Developed by : Mochammad Faishal");
     }
     
 }

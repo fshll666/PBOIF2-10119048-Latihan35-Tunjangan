@@ -8,6 +8,10 @@ package pboif2.pkg10119048.latihan35.tunjangan;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Class untuk menghitung gaji.
  */
 public class hitungGaji {
     private double gaji;
@@ -34,6 +38,8 @@ public class hitungGaji {
         System.out.println("Gaji Pokok\t\t: Rp. " + gaji);
         System.out.println("Tunjangan\t\t: Rp. " + hitungTunjangan());
         System.out.println("Total Gaji\t\t: Rp. " + hitungTotalGaji());
+        System.out.println("==========================================");
+        System.out.println("Developed by : Mochammad Faishal");
     }
 }
     
